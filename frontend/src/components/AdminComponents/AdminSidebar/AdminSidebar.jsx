@@ -13,7 +13,7 @@ import { useGetLogosQuery } from "../../../Redux/logo/logoApi";
 const adminSidebarItems = [
   {
     icon: <MdOutlineDashboard />,
-    title: "Dashbaord",
+    title: "Dashboard",
     path: "/admin/dashboard",
   },
   {
@@ -26,7 +26,11 @@ const adminSidebarItems = [
     title: "Orders",
     path: "/admin/orders",
   },
-
+  {
+    icon: <PiFlagBannerFill />,
+    title: "Banner",
+    path: "/admin/banner",
+  },
   {
     icon: <MdFeaturedPlayList />,
     title: "Feature",
@@ -41,12 +45,6 @@ const adminSidebarItems = [
         path: "/admin/features/all",
       },
     ],
-  },
-
-  {
-    icon: <PiFlagBannerFill />,
-    title: "Banner",
-    path: "/admin/banner",
   },
   {
     icon: <FcAbout />,
