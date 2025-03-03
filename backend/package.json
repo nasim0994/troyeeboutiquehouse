@@ -8,7 +8,14 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "lailafashionhouse",
+    "lailafashion",
+    "laila",
+    "fashion",
+    "house",
+    "lailafashionhouse.com"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
