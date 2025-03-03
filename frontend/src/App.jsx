@@ -74,13 +74,13 @@ export default function App() {
           property="og:image"
           content={`${import.meta.env.VITE_BACKEND_URL}/favicon/${icon}`}
         />
-        <meta property="og:url" content="https://lailafashionhouse.com" />
+        <meta property="og:url" content="https://troyeeboutique.com" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="lailafashionhouse" />
+        <meta property="og:site_name" content="troyeeboutique" />
 
         {/* <!-- twitter --> */}
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="@lailafashionhouse" />
+        <meta name="twitter:site" content="@troyeeboutique" />
         <meta name="twitter:title" content={seoData?.basic?.title} />
         <meta
           name="twitter:description"

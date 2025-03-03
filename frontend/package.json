@@ -1,6 +1,6 @@
 {
-  "name": "lailafashionhouse",
-  "homepage": "https://lailafashionhouse.com",
+  "name": "troyeeboutique",
+  "homepage": "https://troyeeboutiquehouse.com",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -11,12 +11,12 @@
     "preview": "vite preview"
   },
   "keywords": [
-    "lailafashionhouse",
+    "troyeeboutique",
     "lailafashion",
-    "laila",
-    "fashion",
+    "troyee",
+    "boutique",
     "house",
-    "lailafashionhouse.com"
+    "troyeeboutiquehouse.com"
   ],
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
